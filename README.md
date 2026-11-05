@@ -14,11 +14,17 @@ A mysterious traveler awakens in an unfamiliar world with no memory of her past.
 
 The screenshots show a work-in-progress build. A release date has not been announced.
 
-This repository is for project updates and patch releases. Development tools are kept private.
+This repository is for project updates and patch releases. Project-specific development tools remain private; the public toolkit used during development is linked below.
 
 ## Community
 
 [Join our Discord](https://discord.gg/DwR2jxj5b) to follow the project and chat about the translation.
+
+## Public tools & acknowledgments
+
+This project uses [translate-retro-game](https://github.com/minhnhattonthat/translate-retro-game) by [minhnhattonthat](https://github.com/minhnhattonthat), a public toolkit and workflow for retro-game translation.
+
+It includes ROM and text utilities, emulator-based testing, screenshot tools, and patch creation. Visit the repository to get the tools and read the setup instructions and license.
 
 ## Required base ROM
 
