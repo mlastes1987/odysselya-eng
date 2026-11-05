@@ -16,6 +16,10 @@ The screenshots show a work-in-progress build. A release date has not been annou
 
 This repository is for project updates and patch releases. Development tools are kept private.
 
+## Community
+
+[Join our Discord](https://discord.gg/DwR2jxj5b) to follow the project and chat about the translation.
+
 ## Required base ROM
 
 The English patch requires an **unmodified, unheadered Japanese ROM** matching these details:
