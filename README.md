@@ -1,8 +1,10 @@
-# Shinseiki Odysselya — English Fan Translation
+# Shinseiki Odysselya I & II — English Fan Translations
 
 ![Coming Soon — English translation preview](assets/coming-soon.png)
 
-An English fan translation of **Shinseiki Odysselya**, the 1993 Super Famicom RPG from VIC TOKAI.
+English fan translations of **Shinseiki Odysselya** and **Shinseiki Odysselya II**,
+two Super Famicom RPGs from VIC TOKAI. Patches for both games will be available
+from this repository’s [Releases page](../../releases).
 
 ## The story
 
@@ -10,20 +12,25 @@ A mysterious traveler awakens in an unfamiliar world with no memory of her past.
 
 ## Project status
 
-**English v0.9 beta is in playtesting.** The current test checkpoint is
-**R16 (November 20, 2026)**. It includes the English opening, all 5,301
-extracted dialogue entries, and translations for many battle, inventory,
-equipment, shop, and save/load screens.
+- **Shinseiki Odysselya** is in English v0.9 beta playtesting. The current
+  checkpoint is **R17 (November 20, 2026)**. It includes the English opening,
+  all 5,301 extracted dialogue entries, many translated menus, and the Assist
+  menu. The screenshots show a work-in-progress build of the first game.
+- **Shinseiki Odysselya II** is in development. The opening English preview is
+  being tested, and the sequel patch is forthcoming.
 
-Recent playtest fixes keep long item and weapon names inside their menus,
+Recent first-game fixes keep long item and weapon names inside their menus,
 add English location signs such as the Kali Temple entrance, and improve
-Rasetsu's party header and the Battle Mode layout. The opening and those
-affected screens have been checked in the emulator. Later chapters still
-need broader playtesting, and some title, chapter, and credits graphics
-remain to be translated. A public release date has yet to be announced.
+Rasetsu’s party header and the Battle Mode layout. Later chapters still need
+broader playtesting, and some title, chapter, and credits graphics remain
+to be translated. The project-specific development tools are private.
 
-This repository carries project updates and will host public patch releases.
-The project-specific development tools are private.
+### Assist menu in the first game
+
+Press **Select+B** during free movement to open **Assist**. You can turn
+random encounters on or off and set battle EXP and G to **1×**, **2×**, or
+**3×**. Story battles still occur. Choose **Exit** or press **B** to return to
+the game. Settings last for the current play session.
 
 ## Community
 
@@ -37,23 +44,15 @@ This project uses [translate-retro-game](https://github.com/minhnhattonthat/tran
 
 It includes ROM and text utilities, emulator-based testing, screenshot tools, and patch creation. Visit the repository to get the tools and read the setup instructions and license.
 
-## Required base ROM
+## Applying a patch
 
-The English patch requires an **unmodified, unheadered Japanese ROM** matching these details:
+Download the **BPS patch** for your game from [Releases](../../releases) and
+apply it to the matching **unmodified, unheadered Japanese ROM**.
 
-| Detail | Required value |
-| --- | --- |
-| Game | Shinseiki Odysselya (Japan) |
-| Platform | Super Famicom / SNES |
-| File size | 1,572,864 bytes (1.5 MiB) |
-| Copier header | None |
+| Super Famicom game | ROM size in bytes | SHA-1 |
+| --- | ---: | --- |
+| Shinseiki Odysselya (Japan) | 1,572,864 | `581de180568d85e4fd6f06c800caeff0e74d43fe` |
+| Shinseiki Odysselya II (Japan) | 3,145,728 | `dcbc42a7385d25a1b35791d2a1088a8d46f873bb` |
 
-**SHA-1:**
-
-```text
-581de180568d85e4fd6f06c800caeff0e74d43fe
-```
-
-When the patch is released, apply the **BPS patch** to a base ROM matching the hash above. ROM files are not included.
-
-Original game © 1993 VIC TOKAI. English translation is an unofficial fan project.
+The releases contain patches and documentation. The original games are
+copyright VIC TOKAI. This is an unofficial fan project.
