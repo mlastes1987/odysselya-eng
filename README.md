@@ -10,15 +10,26 @@ A mysterious traveler awakens in an unfamiliar world with no memory of her past.
 
 ## Project status
 
-**Coming soon — playtesting and polish are in progress.**
+**English v0.9 beta is in playtesting.** The current test checkpoint is
+**R16 (November 20, 2026)**. It includes the English opening, all 5,301
+extracted dialogue entries, and translations for many battle, inventory,
+equipment, shop, and save/load screens.
 
-The screenshots show a work-in-progress build. A release date has not been announced.
+Recent playtest fixes keep long item and weapon names inside their menus,
+add English location signs such as the Kali Temple entrance, and improve
+Rasetsu's party header and the Battle Mode layout. The opening and those
+affected screens have been checked in the emulator. Later chapters still
+need broader playtesting, and some title, chapter, and credits graphics
+remain to be translated. A public release date has yet to be announced.
 
-This repository is for project updates and patch releases. Project-specific development tools remain private; the public toolkit used during development is linked below.
+This repository carries project updates and will host public patch releases.
+The project-specific development tools are private.
 
 ## Community
 
-[Join our Discord](https://discord.gg/DwR2jxj5b) to follow the project and chat about the translation.
+Follow development and ask about playtesting on Discord. If you spot
+untranslated, clipped, or overlapping text, include the build version,
+location or menu, and a screenshot if you have one. [Join our Discord](https://discord.gg/DwR2jxj5b)
 
 ## Public tools & acknowledgments
 
