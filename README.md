@@ -12,18 +12,24 @@ A mysterious traveler awakens in an unfamiliar world with no memory of her past.
 
 ## Project status
 
-- **Shinseiki Odysselya** is in English v0.9 beta playtesting. The current
-  checkpoint is **R17 (November 20, 2026)**. It includes the English opening,
-  all 5,301 extracted dialogue entries, many translated menus, and the Assist
-  menu. The screenshots show a work-in-progress build of the first game.
-- **Shinseiki Odysselya II** is in development. The opening English preview is
-  being tested, and the sequel patch is forthcoming.
+*Updated November 23, 2026.*
 
-Recent first-game fixes keep long item and weapon names inside their menus,
-add English location signs such as the Kali Temple entrance, and improve
-Rasetsu’s party header and the Battle Mode layout. Later chapters still need
-broader playtesting, and some title, chapter, and credits graphics remain
-to be translated. The project-specific development tools are private.
+- **Shinseiki Odysselya** is in English v0.9 beta playtesting. **R18 (November
+  22)** includes English for all 5,301 extracted dialogue entries, translated
+  menus, and the Assist menu. The latest build fixes Troy’s garbled battle cry
+  and brings all 131 battle cries through the English text renderer. An English
+  walkthrough now covers the opening through Chapter 4 and includes a labeled
+  550 BC world map. Later chapters still need broader playtesting, and some
+  title, chapter, and credits graphics remain to be translated.
+- **Shinseiki Odysselya II** is in development. The **November 23 playtest**
+  includes **4,537 of 6,622 indexed script records** in English, including new
+  translations for the alternate prologue and several late-game scenes. The
+  opening has been tested through the exit from Sparta. Later scenes still
+  need in-game testing, and work remains on the script, menus, battle text,
+  and graphics.
+
+The screenshots show a work-in-progress build of the first game. The
+project-specific development tools are private.
 
 ### Assist menu in the first game
 
