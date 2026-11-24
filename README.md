@@ -1,10 +1,8 @@
 # Shinseiki Odysselya I & II — English Fan Translations
 
-![Coming Soon — English translation preview](assets/coming-soon.png)
-
 English fan translations of **Shinseiki Odysselya** and **Shinseiki Odysselya II**,
-two Super Famicom RPGs from VIC TOKAI. Patches for both games will be available
-from this repository’s [Releases page](../../releases).
+two Super Famicom RPGs from VIC TOKAI. Patches for both games share this
+repository’s [Releases page](https://github.com/mlastes1987/odysselya-eng/releases).
 
 ## The story
 
@@ -14,22 +12,19 @@ A mysterious traveler awakens in an unfamiliar world with no memory of her past.
 
 *Updated November 23, 2026.*
 
-- **Shinseiki Odysselya** is in English v0.9 beta playtesting. **R18 (November
-  22)** includes English for all 5,301 extracted dialogue entries, translated
-  menus, and the Assist menu. The latest build fixes Troy’s garbled battle cry
-  and brings all 131 battle cries through the English text renderer. An English
-  walkthrough now covers the opening through Chapter 4 and includes a labeled
-  550 BC world map. Later chapters still need broader playtesting, and some
-  title, chapter, and credits graphics remain to be translated.
+- **Shinseiki Odysselya** is at **English v0.9**, the public beta. It includes
+  English for all 5,301 extracted dialogue entries, translated menus, the
+  Assist menu, and a fix for Troy’s garbled battle cry. The download includes
+  an English walkthrough through Chapter 4 and an English-labeled 550 BC
+  world map. Later chapters still need broader playtesting, and some title,
+  chapter, and credits graphics remain in Japanese.
 - **Shinseiki Odysselya II** is in development. The **November 23 playtest**
-  includes **4,537 of 6,622 indexed script records** in English, including new
-  translations for the alternate prologue and several late-game scenes. The
-  opening has been tested through the exit from Sparta. Later scenes still
-  need in-game testing, and work remains on the script, menus, battle text,
-  and graphics.
+  includes English for all **6,758 text entries in the current script
+  index**. The opening has been tested through the exit from Sparta. Later
+  scenes still need in-game testing, and menu, battle, and graphics text
+  remain in development.
 
-The screenshots show a work-in-progress build of the first game. The
-project-specific development tools are private.
+The project-specific development tools are private.
 
 ### Assist menu in the first game
 
@@ -52,13 +47,16 @@ It includes ROM and text utilities, emulator-based testing, screenshot tools, an
 
 ## Applying a patch
 
-Download the **BPS patch** for your game from [Releases](../../releases) and
-apply it to the matching **unmodified, unheadered Japanese ROM**.
+Download and extract the ZIP for your game. Use a BPS-compatible patcher
+to apply the **.bps** file to the matching **unmodified, unheadered Japanese
+ROM**. Start the resulting ROM from a cold boot.
+[GitHub Releases](https://github.com/mlastes1987/odysselya-eng/releases)
 
 | Super Famicom game | ROM size in bytes | SHA-1 |
 | --- | ---: | --- |
 | Shinseiki Odysselya (Japan) | 1,572,864 | `581de180568d85e4fd6f06c800caeff0e74d43fe` |
 | Shinseiki Odysselya II (Japan) | 3,145,728 | `dcbc42a7385d25a1b35791d2a1088a8d46f873bb` |
 
-The releases contain patches and documentation. The original games are
+The releases contain patches and documentation. The project uses AI
+assistance for translation and development. The original games are
 copyright VIC TOKAI. This is an unofficial fan project.
