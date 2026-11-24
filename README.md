@@ -12,7 +12,7 @@ A mysterious traveler awakens in an unfamiliar world with no memory of her past.
 
 *Updated November 23, 2026.*
 
-- **Shinseiki Odysselya** is at **English v0.9**, the public beta. It includes
+- **Shinseiki Odysselya** is at **English v0.9**, the first public release. It includes
   English for all 5,301 extracted dialogue entries, translated menus, the
   Assist menu, and a fix for Troy’s garbled battle cry. The download includes
   an English walkthrough through Chapter 4 and an English-labeled 550 BC
